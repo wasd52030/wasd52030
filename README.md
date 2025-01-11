@@ -1,11 +1,10 @@
 ```
-╔════════════════════════════════════╗
-║                                    ║
-║           不戰 不和 不守            ║
-║                                    ║
-║           不死 不降 不走            ║
-║                                    ║
-╚════════════════════════════════════╝
++------------------+
+|                  |
+|   不戰 不和 不守  |
+|   不死 不降 不走  |
+|                  |
++------------------+
 ```
 
 <img width="150" src="https://raw.githubusercontent.com/jonacruz89/SAWARATSUKI.ServiceLogos/main/C%23/C%23.png"><img width="150" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/React/React.png">
